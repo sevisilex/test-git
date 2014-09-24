@@ -1,7 +1,7 @@
 <?php date('Ymd His');
 
-echo "branche : a5345345\n";
+echo "dev3.3 branche : a5345345\n";
 
 ?>
-To jest tooo!
+by dev3.3
 
