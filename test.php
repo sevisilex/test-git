@@ -1,5 +1,5 @@
 <?php date('Ymd His');
 
-echo "test : a\n";
+echo "test dev3.3: a\n";
 
 
